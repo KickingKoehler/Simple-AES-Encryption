@@ -2,6 +2,9 @@
 This is a simple implementation of an AES Encryption using a shared key that is created with two Elliptic points on Bitcoin's secp256k1 elliptic curve.
 Some of the files take aspects that were given by a Franciscan University professor, Dr. Coleman, for homework assignments. These aspects are used with his permission
   and have been noted in the files that used them.
+It also uses JetBrains' PyCharm IDE and contains all of the files needed to open as a project in the PyCharm IDE. The configurations would need to be added, and the
+  directory will need to be renamed to Simple-AES-Encryption (instead of Simple-AES-Encryption-main).
+  See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 To see a simple implementation of the project, look at the main.py file. All six files are required for the main file to run.
 If you want to use a different elliptic curve, note that the key (the x value of the shared secret added to the y value) has to be at least 128 bits long.
