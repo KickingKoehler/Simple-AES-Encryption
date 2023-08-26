@@ -1,4 +1,7 @@
 # Koder-AES-Encryption
+
+NOTE: KreativeKoder032 and KoehlerKode are two separate accounts for the same user.
+
 This is a simple implementation of an AES Encryption using a shared key that is created with two Elliptic points on Bitcoin's secp256k1 elliptic curve.
 Some of the files used aspects that were given by a Franciscan University professor, Dr. Coleman, for homework assignments. These aspects are used with his permission and have been noted in the files that used them.
   
